@@ -13,7 +13,8 @@
     "esModuleInterop": true,
     "isolatedModules": true,
     "moduleDetection": "force",
-    "noEmit": true,
+    "noEmit": false,
+    "outDir": "./build",
     "jsx": "react-jsx",
 
     /* Linting */
