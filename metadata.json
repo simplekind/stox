@@ -1,0 +1,6 @@
+{
+  "name": "FinAI Stock Explorer",
+  "description": "An AI-powered application to explore stocks based on investment themes, with analysis from Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
